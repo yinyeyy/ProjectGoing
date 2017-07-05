@@ -1,3 +1,3 @@
 # ProjectGoing
 The projects being done
-    主要记录目前正在进行的项目（20170705之后）。
+An acquisition system which works like a Oscilloscope. Using 2 5GHz 8bits ADCs to make an equivalent 10GHz acquisition. All data is storing in a DDR3 SODIMM in real time.
